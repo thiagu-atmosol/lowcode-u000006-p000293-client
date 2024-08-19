@@ -550,7 +550,7 @@ function contact(event) {
 function sendEmail(event, data) {
     event.preventDefault();
     const baseUrl = "https://lowcodedev.azurewebsites.net/api";
-    const authToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2IiwiZW1haWwiOiJ0ZWRkeS5vZGRtYW5AZ21haWwuY29tIiwiaWQiOiI2IiwiZXhwIjoxNzI0MDM5MDE5fQ.cEQjfQ-BEx10i0EPqVWCUVLNXY5xKa2nEDD5LWnFNTY";
+    const authToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2IiwiZW1haWwiOiJ0ZWRkeS5vZGRtYW5AZ21haWwuY29tIiwiaWQiOiI2IiwiZXhwIjoxNzI0MDQyNjQ0fQ.olHxjl7nEdLjzwCz997FtMC3pBlmpjzFjMBvalE0rbQ";
     const userId = 6;
     const projectId = 293;
 
